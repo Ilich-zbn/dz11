@@ -1,1 +1,6 @@
 *.txt
+/example_folder/*_temp/
+/example_folder/test_file
+
+
+
